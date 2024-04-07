@@ -2,7 +2,10 @@
 
 👀 I’m interested in football and programming
 🌱 I’m currently learning Golang 
-📫 How to reach me in telegram: @Snake_eyes7 
+📫 How to reach me in telegram: @Snake_eyes7
+
+![](https://komarev.com/ghpvc/?username=Snake1-1eyes)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=14&pause=1000&background=000000&center=true&vCenter=true&random=false&width=450&height=40&lines=%D0%9D%D0%B8%D1%87%D1%82%D0%BE+%D0%BD%D0%B5+%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D0%BE%2C+%D0%B2%D1%81%D1%91+%D0%B4%D0%BE%D0%B7%D0%B2%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE)](https://git.io/typing-svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snake1-1eyes)](https://github.com/anuraghazra/github-readme-stats)
