@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm @Snake_eyes👋
+
+👀 I’m interested in football and programming
+🌱 I’m currently learning Golang 
+📫 How to reach me in telegram: @Snake_eyes7 
 
 <!--
 **Snake1-1eyes/Snake1-1eyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
